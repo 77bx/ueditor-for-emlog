@@ -1,4 +1,9 @@
 # ueditor-for-emlog
+#更新日志
+2014-09-17 21:20:34
+1. 支持emlog5.3.1
+2. 使用ueditor php utf-8 1.4.3
+3. pageBreakTag分隔线改为[break]摘要截断符
 
 # 使用说明
 由于emlog要修改自带的编辑器用插件的方式实现方法比较麻烦，这里采用替换覆盖方法的方法来实现。直接覆盖到emlog博客的根目录，覆盖掉admin中的部分文件。
