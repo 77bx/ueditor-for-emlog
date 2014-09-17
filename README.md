@@ -7,13 +7,13 @@
 使用emlog自带的文件替换掉修改列表修改的这几个文件，然后删掉ueditor（使用过ueditor内置的附件图片上传慎删）
 
 # 修改列表
-*admin目录下添加ueditor文件夹
-*add_log.php 新建文章
-*add_page.php 新建页面
-*edit_log.php 修改文章
-*edit_page.php 修改页面
-*common.js
+* admin目录下添加ueditor文件夹
+* add_log.php 新建文章
+* add_page.php 新建页面
+* edit_log.php 修改文章
+* edit_page.php 修改页面
+* common.js
 
 # 联系作者
-*你可以在[星之宇个人博客](http://www.myxzy.com)找到联系方式
-*作者博客该项目主页[点击这里](http://www.myxzy.com/ue4em.html)
+* 你可以在[星之宇个人博客](http://www.myxzy.com)找到联系方式
+* 作者博客该项目主页[点击这里](http://www.myxzy.com/ue4em.html)
